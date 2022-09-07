@@ -1,6 +1,5 @@
 <h1> upfi 📤</h1>
 
-![01](https://user-images.githubusercontent.com/48728541/119729578-32db7580-be4b-11eb-989f-2ac953d0a062.png)
 
 <p align="center">
   Faça o upload de suas imagens pra "nuvem"
@@ -18,5 +17,3 @@
 
 </br>
 </br>
-
-<p>Desenvolvido com ❤️ por <a href="https://github.com/Fekleite">Fernanda Leite </a></p>
